@@ -10,5 +10,18 @@
     "es6"
   ],
   "author": "satyakrishna",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.24.1"
+  },
+  "repository": {
+    "url": "https://github.com/satykrishna/ES6.git"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.24.1",
+    "babel-register": "^6.24.1"
+  }
 }
