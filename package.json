@@ -1,0 +1,14 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "this is es6 project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es6"
+  ],
+  "author": "satyakrishna",
+  "license": "ISC"
+}
